@@ -1,2 +1,3 @@
-# python-estudos
-python
+# 📚 Conteúdo
+
+Exercícios básicos de lógica em Python.
