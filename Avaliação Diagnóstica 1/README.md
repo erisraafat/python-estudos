@@ -1,6 +1,5 @@
 Avaliação Diagnóstica
 
-verlaynne.araujo@palmares.ifpe.edu.br
 
 1 - Imprima seu nome na tela.
 
